@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bekmurod Yusupov</h1>
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
-
+ <img
+  align="right"
+    width="400"
+    src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"
+    alt="gifs"
+  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusupovbekmurod&label=Profile%20views&color=0e75b6&style=flat" alt="yusupovbekmurod" /> </p>
 
 - 🔭 I’m currently working on [CRM_PANEL](https://github.com/yusupovbekmurod/crmPanelV2)
@@ -10,8 +15,6 @@
 - 💬 Ask me about **react, mongoDB, NodeJs**
 
 - 📫 How to reach me **bekmurodyusupov81@gmail.com**
-
-- https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg4NTc0NTAsIm5iZiI6MTcwODg1NzE1MCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI1VDEwMzIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyMTU2YzRlZjA4NzZlMjJkNmQ3OTQ5OTM0ZTMxNDQ0NjZiYTkzMzRmZmFiNjg1ZWI0N2RlMWUyZTE3NThlYTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-9ViCuJA_wxx59l8mdklqySy9QJAwruBT2dsvEGOnKc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
