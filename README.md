@@ -8,7 +8,7 @@
   />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusupovbekmurod&label=Profile%20views&color=0e75b6&style=flat" alt="yusupovbekmurod" /> </p>
 
-- 🔭 I’m currently working on [QuizTestG]([https://github.com/yusupovbekmurod/crmPanelV2](https://github.com/yusupovbekmurod/QuizTest)])
+- 🔭 I’m currently working on [startup]()
 
 - 🌱 I’m currently learning **AppSheet,Figma,Typescript**
 
