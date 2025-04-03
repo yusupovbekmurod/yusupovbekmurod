@@ -71,3 +71,10 @@
 </div>
 
 ###
+
+
+<br clear="both">
+
+<img src="https://github.com/yusupovbekmurod/yusupovbekmurod/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
